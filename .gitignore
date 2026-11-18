@@ -1,0 +1,10 @@
+# Python virtual environment and cache
+.venv/
+__pycache__/
+
+# Your PDFs (the script creates these folders when it runs)
+input/
+output/
+
+# macOS
+.DS_Store
